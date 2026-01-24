@@ -1,7 +1,7 @@
 # Joe's To Do:
 
-- Configure soft-off
-- Configure ZMK Studio
+- [ ] Configure soft-off
+- [ ] Configure ZMK Studio
 
 # Blank Slate ZMK Firmware
 
