@@ -1,3 +1,8 @@
+# Joe's To Do:
+
+- Configure soft-off
+- Configure ZMK Studio
+
 # Blank Slate ZMK Firmware
 
 This repo contains the firmware for the Blank Slate PCB.
