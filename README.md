@@ -1,7 +1,8 @@
 # Joe's To Do:
 
-- [ ] Configure soft-off
+- [X] Configure soft-off
 - [ ] Configure ZMK Studio
+- [ ] Add [LED Status](https://github.com/caksoylar/zmk-rgbled-widget)
 
 # Blank Slate ZMK Firmware
 
